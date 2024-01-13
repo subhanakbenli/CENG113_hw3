@@ -1,0 +1,3 @@
+id,title,genre,director,minutes,year
+5,Death_Note,Adventure,Adam_Wingard,101,2017
+2,My_Neighbor_Totoro,Anime,Hayao_Miyazaki,86,1988

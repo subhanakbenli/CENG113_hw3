@@ -1,0 +1,4 @@
+id,ISBN,title,genre,author,publisher,year
+1,1943138427,Animal_Farm,Dystopian,George_Orwell,Penguin_UK,1946
+2,0679722769,Ulysses,Fiction,James_Joyce,Vintage,1922
+3,9750718533,Nineteen_Eighty_Four,Dystopian,George_Orwell,Penguin,1949
